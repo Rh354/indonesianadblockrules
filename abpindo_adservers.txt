@@ -1,3 +1,7 @@
+||188affiliates.com^$third-party
+||gambar123.com/xf/
+46.166.167.16##.warning
+46.166.167.16##[class^="semprotnenenmontok_"]
 ||130.211.212.60^$popup,third-party
 ||188affiliates.com^$domain=~46.166.167.16|~semprot.com|~semprotku.com
 ||1iklanbaris.com^$third-party
